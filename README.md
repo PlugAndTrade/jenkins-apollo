@@ -1,3 +1,3 @@
 # Jenkins-Apollo
 
-Apollo CLI container for CI
+Apollo Rover container for CI
